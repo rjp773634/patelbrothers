@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T20:59:49Z" name="test.com.SampleTestForLogin" finished-at="2023-09-29T21:00:09Z" duration-ms="20415">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T20:59:49Z" name="Command line test" finished-at="2023-09-29T21:00:09Z" duration-ms="20415">
+      <class name="test.com.SampleTestForLogin">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.SampleTestForLogin@5bb21b69]" started-at="2023-09-29T15:59:49Z" name="setUpClass" finished-at="2023-09-29T15:59:49Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.SampleTestForLogin@5bb21b69]" started-at="2023-09-29T15:59:49Z" name="setUpMethod" finished-at="2023-09-29T15:59:50Z" duration-ms="1560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testCSS()[pri:0, instance:test.com.SampleTestForLogin@5bb21b69]" started-at="2023-09-29T15:59:50Z" name="testCSS" finished-at="2023-09-29T16:00:09Z" duration-ms="18840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCSS -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.SampleTestForLogin@5bb21b69]" started-at="2023-09-29T16:00:09Z" name="tearDownMethod" finished-at="2023-09-29T16:00:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.SampleTestForLogin@5bb21b69]" started-at="2023-09-29T16:00:09Z" name="tearDownClass" finished-at="2023-09-29T16:00:09Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.SampleTestForLogin -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.SampleTestForLogin -->
+</testng-results>
